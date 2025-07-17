@@ -1,1 +1,1 @@
-async function getData(){const course = "22_化学实验安全教育_形势与政策(1)_科研实践实训（1）_公路交通与驾驶技术_情绪管理（在线式）_话剧表演(特招)_无机化学（元素化学）实验";return course;}getData().then((course) => {console.log(course);return course;}); 
+async function getData(){const course = "23_情绪管理（在线式）_无机化学（元素化学）实验_话剧表演(特招)_化学实验安全教育_形势与政策(1)_科研实践实训（1）_公路交通与驾驶技术_中国近现代史纲要";return course;}getData().then((course) => {console.log(course);return course;}); 
