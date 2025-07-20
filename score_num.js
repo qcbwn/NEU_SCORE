@@ -1,1 +1,1 @@
-async function getData(){const course = "25_化学实验安全教育_形势与政策(1)_科研实践实训（1）_公路交通与驾驶技术_分析化学(化学分析）实验(二)_分析化学(化学分析）实验(一)_中国近现代史纲要_无机化学（元素化学）实验_话剧表演(特招)_情绪管理（在线式）";return course;}getData().then((course) => {console.log(course);return course;}); 
+async function getData(){const course = "26_无机化学（元素化学）实验_话剧表演(特招)_化学实验安全教育_形势与政策(1)_科研实践实训（1）_普通物理(一)_情绪管理（在线式）_分析化学(化学分析）实验(二)_分析化学(化学分析）实验(一)_中国近现代史纲要_公路交通与驾驶技术";return course;}getData().then((course) => {console.log(course);return course;}); 
